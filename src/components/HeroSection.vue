@@ -6,19 +6,11 @@
     <div>
         <section id="hero">
             <div class="presentation">
-                <h1>Développeur Full Stack en alternance</h1>
-                <p>Développeur Full Stack en alternance (PHP Symfony/Laravel & Vue.js | MVC & POO)
-                    <br><br>
-                    Futur étudiant en bachelor 3ème année à l'ESGI (rentrée septembre 2026) et passionné par l'architecture logicielle, 
-                    je me spécialise en Développement Full Stack.<br><br>
-                    
-                    Bien que mon parcours soit marqué 
-                    par une forte expertise en PHP et Symfony, je considère les langages comme 
-                    des outils au service des enjeux métiers. <br><br>
-
-                    Maîtrisant les environnements Linux/Docker et les outils de versioning, 
-                    je suis ouvert à l'apprentissage de nouvelles stacks pour construire des 
-                    solutions robustes et évolutives.
+                <h1>Développeur Full Stack (PHP - Symfony/Laravel)</h1>
+                <p>
+                    Développeur Full Stack (PHP, Symfony/Laravel & Vue.js) en recherche d'alternance 
+                    (3 semaines / 1 semaine). Passionné par l'architecture logicielle, 
+                    je conçois des applications web robustes, performantes et centrées sur les besoins métiers.                    
                 </p>
                 <div class="social-media-link">
                     <div><a href="https://www.linkedin.com/in/kassim-attoumani/" target="_blank"><img src="/images/linkedin.png" alt=""></a></div>
@@ -40,6 +32,7 @@
     padding-top: 100px;
     justify-content: center;
     gap: 5rem;
+    min-height: 100vh;
 }
 
 p {
