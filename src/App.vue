@@ -1,12 +1,14 @@
 <script setup>
 import TheNavBar from './components/TheNavBar.vue';
 import HeroSection from './components/HeroSection.vue';
+import AboutSection from './components/AboutSection.vue';
 
 </script>
 
 <template>
   <TheNavBar/>
   <HeroSection/>
+  <AboutSection/>
 </template>
 
 <style>
