@@ -23,7 +23,7 @@
     justify-content: space-between; 
     align-items: center;
     padding: 1.5rem 5%; 
-    border-bottom: 1px solid #FFFFFF;
+    border-bottom: 1px solid #000000;
 }
 
 .nav-links {
@@ -36,7 +36,7 @@
 }
 
 .logo a {
-    color: #FFFFFF;
+    color: #000000;
     font-weight: bold;
     font-size: 1.3rem;
     text-decoration: none;
@@ -44,7 +44,7 @@
 
 .nav-links a {
     text-decoration: none; 
-    color: #FFFFFF; 
+    color: #000000; 
     font-weight: 500;
     font-size: 1.1rem;
 }

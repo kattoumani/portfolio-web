@@ -1,7 +1,3 @@
-<script setup>
-import DefaultCard from './DefaultCard.vue';
-</script>
-
 <template>
     <div class="about-section">
     <h1>À propos</h1>
@@ -12,6 +8,9 @@ import DefaultCard from './DefaultCard.vue';
     Au-delà du code, je cultive une grande rigueur que je retrouve aussi dans mes loisirs : je pratique régulièrement la musculation en salle, je suis de près l'actualité du football et je joue aux jeux vidéo.</p>
     </div>
 </template>
+
+<script setup>
+</script>
 
 <style scoped>
 h1 {

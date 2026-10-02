@@ -1,7 +1,3 @@
-<script>
-
-</script>
-
 <template>
     <div>
         <section id="hero">
@@ -13,18 +9,22 @@
                     je conçois des applications web robustes, performantes et centrées sur les besoins métiers.                    
                 </p>
                 <div class="social-media-link">
-                    <div><a href="https://www.linkedin.com/in/kassim-attoumani/" target="_blank"><img src="/images/linkedin.png" alt=""></a></div>
-                    <div><a href="https://github.com/kattoumani" target="_blank"><img src="/images/github.png" alt=""></a></div>
-                    <div><a href="https://gitlab.com/kattoumani" target="_blank"><img src="/images/gitlab.png" alt=""></a></div>
+                    <div><a href="https://www.linkedin.com/in/kassim-attoumani/" target="_blank"><img src="@/assets/images/linkedin.png" alt=""></a></div>
+                    <div><a href="https://github.com/kattoumani" target="_blank"><img src="@/assets/images/github.png" alt=""></a></div>
+                    <div><a href="https://gitlab.com/kattoumani" target="_blank"><img src="@/assets/images/gitlab.png" alt=""></a></div>
                 </div>
             </div>
             <div class="profile-picture">
-                <img src="/images/profile_picture.jpeg" alt="Photo de profil">
+                <img src="@/assets/images/profile_picture.jpeg" alt="Photo de profil">
             </div>
 
         </section>
     </div>
 </template>
+
+<script>
+
+</script>
 
 <style scoped>
 #hero {
