@@ -1,7 +1,3 @@
-<script setup>
-
-</script>
-
 <template>
 <nav class="navbar">
     <div class="logo">
@@ -10,11 +6,17 @@
 
     <ul class="nav-links">
         <li><a href="#about">À propos</a></li>
+        <li><a href="#skills">Compétences</a></li>
+        <li><a href="#experience">Expériences</a></li>
         <li><a href="#projets">Projets</a></li>
         <li><a href="#contact">Contact</a></li>
     </ul>
 </nav>
 </template>
+
+<script setup>
+
+</script>
 
 <style scoped>
 

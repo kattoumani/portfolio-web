@@ -1,5 +1,5 @@
 <template>
-    <div class="skill-section">
+    <div class="skill-section" id="skills">
     <h1>Compétences</h1>
     <div class="card-container">
 

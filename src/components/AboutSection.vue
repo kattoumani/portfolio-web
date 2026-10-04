@@ -1,5 +1,5 @@
 <template>
-    <div class="about-section">
+    <div class="about-section" id="about">
     <h1>À propos</h1>
     <p>Étudiant en 3ème année de Bachelor Ingénierie du Web à l'ESGI et passionné par l'architecture logicielle, je me spécialise en Développement Full Stack (PHP, Symfony/Laravel & Vue.js).<br><br>
 
