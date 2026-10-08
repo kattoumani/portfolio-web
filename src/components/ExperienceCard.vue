@@ -32,7 +32,7 @@ defineProps({
     max-width: 1000px;
     border: 1px solid;
     padding: 15px;
-    border-radius: 3%;
+    border-radius: 12px;
 }
 
 .missions li {
@@ -48,8 +48,8 @@ defineProps({
 }
 
 .technologies li {
-    border: 2px solid #DCDADA;
-    border-radius: 15%;
+    border: 2px solid black;
+    border-radius: 12px;
     padding: 5px;
 }
 

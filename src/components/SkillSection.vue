@@ -49,9 +49,6 @@
         <SkillCard :name="'GitLab'" :imageSrc="logoGitLab" :alt="GitLab"/>
         <SkillCard :name="'Docker'" :imageSrc="logoDocker" :alt="Docker"/>
     </div>
-
-
-
     </div>
     </div>
 
@@ -88,7 +85,6 @@ import logoDocker from '@/assets/images/docker.png';
     align-items: center;
     padding-top: 100px;
     gap: 5rem;
-    min-height: 100vh;
 }
 
 .card-container {
@@ -111,6 +107,4 @@ h1 {
 .border-bottom {
     border-bottom: 1px solid #000000;
 }
-
-
 </style>

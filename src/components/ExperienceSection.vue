@@ -114,9 +114,8 @@ const experiences = [
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 100px;
     gap: 2rem;
-    min-height: 100vh;
+    padding-top: 150px;
 }
 
 h1 {

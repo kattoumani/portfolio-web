@@ -3,6 +3,8 @@
   <HeroSection/>
   <AboutSection/>
   <SkillSection/>
+  <ExperienceSection/>
+  <EducationSection/>
 </template>
 
 <script setup>
@@ -10,6 +12,8 @@ import TheNavBar from './components/TheNavBar.vue';
 import HeroSection from './components/HeroSection.vue';
 import AboutSection from './components/AboutSection.vue';
 import SkillSection from './components/SkillSection.vue';
+import ExperienceSection from './components/ExperienceSection.vue';
+import EducationSection from './components/EducationSection.vue';
 
 </script>
 
