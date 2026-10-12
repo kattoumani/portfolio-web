@@ -5,6 +5,8 @@
   <SkillSection/>
   <ExperienceSection/>
   <EducationSection/>
+  <ProjectSection />
+  <FooterSection />
 </template>
 
 <script setup>
@@ -14,6 +16,8 @@ import AboutSection from './components/AboutSection.vue';
 import SkillSection from './components/SkillSection.vue';
 import ExperienceSection from './components/ExperienceSection.vue';
 import EducationSection from './components/EducationSection.vue';
+import ProjectSection from './components/ProjectSection.vue';
+import FooterSection from './components/FooterSection.vue';
 
 </script>
 

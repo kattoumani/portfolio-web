@@ -2,11 +2,12 @@
     <div>
         <section id="hero">
             <div class="presentation">
-                <h1>Développeur Full Stack (PHP - Symfony/Laravel)</h1>
+                <h1>Développeur informatique</h1>
                 <p>
-                    Développeur Full Stack (PHP, Symfony/Laravel & Vue.js) en recherche d'alternance 
-                    (3 semaines / 1 semaine). Passionné par l'architecture logicielle, 
-                    je conçois des applications web robustes, performantes et centrées sur les besoins métiers.                    
+                    Développeur Informatique passionné par la conception et la maintenance d'applications web et logiciels. 
+                    Spécialisé en PHP (Symfony/Laravel), JavaScript (Vue.js) et bases de données SQL, 
+                    je maîtrise les environnements conteneurisés (Docker, Linux) pour construire des solutions performantes, 
+                    robustes et adaptées aux besoins métiers. Disponible immédiatement.
                 </p>
                 <div class="social-media-link">
                     <div><a href="https://www.linkedin.com/in/kassim-attoumani/" target="_blank"><img src="@/assets/images/linkedin.png" alt=""></a></div>
