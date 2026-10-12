@@ -59,4 +59,11 @@ img {
     right: 15px;
     width: 70px;
 }
+
+@media (max-width: 768px) {
+    .technologies {
+        flex-wrap: wrap;
+        gap: 0.8rem;
+    }
+}
 </style>

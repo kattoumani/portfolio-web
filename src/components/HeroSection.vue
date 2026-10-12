@@ -67,4 +67,27 @@ p {
     height: 40px;
 }
 
+@media (max-width: 768px) {
+    #hero {
+        flex-direction: column;
+        align-items: center;
+        padding: 80px 1.5rem 2rem;
+        gap: 2rem;
+    }
+
+    .presentation {
+        width: 100%;
+        height: auto;
+    }
+
+    .profile-picture img {
+        width: 200px;
+        height: 200px;
+    }
+
+    .social-media-link {
+        align-items: flex-start;
+    }
+}
+
 </style>

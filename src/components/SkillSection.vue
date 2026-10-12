@@ -107,4 +107,11 @@ h1 {
 .border-bottom {
     border-bottom: 1px solid #000000;
 }
+
+@media (max-width: 768px) {
+    .skill {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
 </style>

@@ -22,6 +22,14 @@ import FooterSection from './components/FooterSection.vue';
 </script>
 
 <style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+}
+
 body {
   font-family: "Space Grotesk", sans-serif;
   background-color: #F7F5EE; 
