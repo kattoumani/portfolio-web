@@ -1,11 +1,33 @@
-<script setup></script>
-
 <template>
-  <h1>You did it!</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
-  </p>
+  <TheNavBar/>
+  <HeroSection/>
+  <AboutSection/>
+  <SkillSection/>
+  <ExperienceSection/>
+  <EducationSection/>
+  <ProjectSection />
+  <FooterSection />
 </template>
 
-<style scoped></style>
+<script setup>
+import TheNavBar from './components/TheNavBar.vue';
+import HeroSection from './components/HeroSection.vue';
+import AboutSection from './components/AboutSection.vue';
+import SkillSection from './components/SkillSection.vue';
+import ExperienceSection from './components/ExperienceSection.vue';
+import EducationSection from './components/EducationSection.vue';
+import ProjectSection from './components/ProjectSection.vue';
+import FooterSection from './components/FooterSection.vue';
+
+</script>
+
+<style>
+body {
+  font-family: "Space Grotesk", sans-serif;
+  background-color: #F7F5EE; 
+  color: #0f172a;
+  margin: 0; 
+  padding: 0;
+}
+  
+</style>
