@@ -20,8 +20,9 @@ h1 {
 
 p {
     margin: 0 auto;
-    width: 1100px;
-    height: 230px;
+    max-width: 1100px;  
+    width: 100%;       
+    height: auto;       
     font-size: 1.2rem;
     text-align: center;
 }

@@ -52,13 +52,18 @@ defineProps({
     padding: 5px;
 }
 
-
-
 img {
     position: absolute;
     top: 15px;
     right: 15px;
     width: 70px;
+}
+
+@media (max-width: 768px) {
+    .technologies {
+        flex-wrap: wrap;
+        gap: 0.8rem;
+    }
 }
 
 
